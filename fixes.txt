@@ -1,1 +1,3 @@
 I am Fix file which is used to fix the bug
+
+Another Bug Fixed
